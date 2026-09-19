@@ -1,0 +1,379 @@
+{
+    "version":  2,
+    "size":  969072640,
+    "sha256":  "592ca5c656638d33e93062f8fc1eba06b1151990ee00d96c7b8d197890503394",
+    "chunks":  [
+                   {
+                       "url":  "muse.db.part000",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part001",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part002",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part003",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part004",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part005",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part006",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part007",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part008",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part009",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part010",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part011",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part012",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part013",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part014",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part015",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part016",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part017",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part018",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part019",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part020",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part021",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part022",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part023",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part024",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part025",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part026",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part027",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part028",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part029",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part030",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part031",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part032",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part033",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part034",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part035",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part036",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part037",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part038",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part039",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part040",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part041",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part042",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part043",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part044",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part045",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part046",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part047",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part048",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part049",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part050",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part051",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part052",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part053",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part054",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part055",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part056",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part057",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part058",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part059",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part060",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part061",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part062",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part063",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part064",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part065",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part066",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part067",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part068",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part069",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part070",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part071",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part072",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part073",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part074",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part075",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part076",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part077",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part078",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part079",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part080",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part081",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part082",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part083",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part084",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part085",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part086",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part087",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part088",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part089",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part090",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part091",
+                       "size":  10485760
+                   },
+                   {
+                       "url":  "muse.db.part092",
+                       "size":  4382720
+                   }
+               ]
+}
